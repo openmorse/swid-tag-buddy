@@ -5,5 +5,5 @@ SWID tags are XML files containing software product metadata.  Tags are placed o
 
 Additional information on SWID tags can be found at www.tagvault.org, and by reviewing NISTIR 8060 [here](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8060.pdf).
 
-swid-tag-buddy is has a GUI, implemented in TkInter:
+swid-tag-buddy has a GUI, implemented in TkInter:
   "Tkinter is Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of Tcl/Tk." https://wiki.python.org/moin/TkInter
